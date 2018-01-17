@@ -7,7 +7,7 @@ Started as a remedy for indecisive couples’ entertainment, this application ca
 Eat dis Watch dat selects a restaurant and movie combination that is sure to satisfy both parties.
 The food and show combo is initially determined by the user’s location. 
 
-Once the user logs in, his or her preferences are stored and used in subsequent attempts to match future movies and restaurants.
+Once the user logs in, his or her preferences are stored and used in subsequent attempts to determine future movie and restaurant matches.
 
 *This app is still is the development stage and currently only selects restaurants and theaters based on the user’s immediate location, but the zip code function will soon be available—along with admin and reporter features.
 
