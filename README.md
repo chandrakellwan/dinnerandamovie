@@ -2,7 +2,7 @@
 
 Group Project:
 
-Started as a remedy for indecisive couples’ entertainment, this application can really be used by anyone who doesn’t want to deal with making choices about food and flick combinations!
+Started as a remedy for indecisive couples’ entertainment, this application can now be used by anyone who doesn’t want to deal with making choices about food and flick combinations!
 
 Eat dis Watch dat selects a restaurant and movie combination that is sure to satisfy both parties.
 The food and show combo is initially determined by the user’s location. 
